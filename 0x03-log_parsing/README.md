@@ -70,7 +70,7 @@ Warning: In this sample, you will have random value - it’s normal to not have 
     405: 4
     500: 4
     Traceback (most recent call last):
-    File "./0-stats.py", line 15, in <module>
+    File "./0-stats.py", lne 15, in <module>
     Traceback (most recent call last):
     File "./0-generator.py", line 8, in <module>
         for line in sys.stdin:
