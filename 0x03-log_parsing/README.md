@@ -77,4 +77,3 @@ Warning: In this sample, you will have random value - it’s normal to not have 
     KeyboardInterrupt
         sleep(random.random())
     KeyboardInterrupt
-    alexa@ubuntu:~/0x03-log_parsing$
